@@ -1,5 +1,5 @@
 -- web.lua
-let xavante = require "xavante"
+xavante = require "xavante"
 
 port = ...
 
